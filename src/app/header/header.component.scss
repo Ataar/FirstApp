@@ -1,0 +1,40 @@
+.text-center
+{
+    color:#f7f027f9;
+    background-color:rgba(11, 146, 101, 0.945);
+    padding:10px;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    text-transform:capitalize;
+    word-spacing:15px;
+    text-shadow:1px 2px 2px rgb(222, 208, 208);
+}
+
+
+
+
+.demo ul li
+{
+   
+    text-align:center;
+    font-size: 21px;
+    font-family: Poppins;
+    border-color:rgb(44, 1, 1);
+ 
+   
+    
+}
+
+.demo ul li:nth-child(1)
+{
+    color:red;
+    background-color:pink;
+    border-style:double;
+    border-color:rgba(241, 8, 187, 0.945);
+    
+    
+}
+.demo ul li:last-of-type
+{
+    color:rgba(239, 107, 107, 0.941);
+   background-color: rgb(216, 181, 212);
+}
